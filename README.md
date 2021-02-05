@@ -7,6 +7,6 @@ Make a full use of terminal and open different sort of files via terminal on lin
 #### 3. pip3
     $ sudo apt-get install pip3
 #### 4. cv2 library
-    $ pip3 install opencv2-python
+    $ pip3 install opencv-python
 #### 5. PyPDF2 library
     $ pip3 install PyPDF2
