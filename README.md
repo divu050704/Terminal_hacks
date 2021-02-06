@@ -10,3 +10,5 @@ Make a full use of terminal and open different sort of files via terminal on lin
     $ pip3 install opencv-python
 #### 5. PyPDF2 library
     $ pip3 install PyPDF2
+## Installation
+    $ git clone https://github.com/divu050704/Terminal_hacks.git
